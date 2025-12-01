@@ -1,2 +1,1 @@
-// Domain modules export
-export {};
+export * as task from './task/_module';

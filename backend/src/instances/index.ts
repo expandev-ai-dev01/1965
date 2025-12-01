@@ -10,3 +10,8 @@
  * InitExample instances
  */
 export { initExampleStore, type InitExampleRecord } from './initExample';
+
+/**
+ * Task instances
+ */
+export { taskStore, type TaskRecord } from './task';
